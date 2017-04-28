@@ -1,0 +1,12 @@
+{
+    "name": "rask/dummy-package",
+    "description": "An empty dummy package to test composer package installations or to give demonstrations",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Otto Rask",
+            "email": "ojrask@gmail.com",
+            "role": "Maintainer"
+        }
+    ]
+}
